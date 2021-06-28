@@ -1,0 +1,10 @@
+09:59:09 **** Incremental Build of configuration Debug for project DiscoTest ****
+make -j4 all 
+arm-none-eabi-size   DiscoTest.elf 
+   text	   data	    bss	    dec	    hex	filename
+  42152	     36	  44684	  86872	  15358	DiscoTest.elf
+Finished building: default.size.stdout
+ 
+
+09:59:10 Build Finished. 0 errors, 0 warnings. (took 568ms)
+
